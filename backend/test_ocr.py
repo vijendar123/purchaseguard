@@ -1,0 +1,1 @@
+IMAGE_PATH = "test_invoice - Copy.png"
